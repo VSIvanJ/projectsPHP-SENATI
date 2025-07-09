@@ -1,0 +1,89 @@
+body{
+    background-image: url(../img/fondo_home.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: whitesmoke;
+}
+
+a{
+    text-decoration: none;
+}
+
+header h1{
+    padding: 5px;
+    margin: 10px;
+    border: salmon solid 3px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 32px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: white;
+    background-color: darkcyan;
+}
+
+header hr{
+    border: black solid 5px;
+    padding: auto;
+    margin: auto;
+}
+
+main nav{
+    text-align: center;
+    
+    padding: 16px;
+    margin: auto;
+    background-color: darkolivegreen;
+    border: violet solid 3px;
+}
+
+main nav a{
+    padding: 10px;
+    margin: auto;
+    background-color: whitesmoke;
+    color: magenta;
+    border: black solid 1px;
+    border-radius: 15px;
+}
+
+a#l1:hover{
+    background-color: orange;
+    color: lightcyan;
+}
+
+a#l1:active{
+    background-color: lightcyan;
+    color: lightcoral;
+}
+
+a#l2:hover{
+    background-color: blue;
+    color: white;
+}
+
+a#l2:active{
+    background-color: black;
+    color: red;
+}
+
+a#l3:hover{
+    background-color: darkgreen;
+    color: lightyellow;
+}
+
+a#l3:active{
+    background-color: yellow;
+    color: gray;
+}
+
+a#l4:hover{
+    background-color: red;
+    color: lightpink;
+}
+
+a#l4:active{
+    background-color: lightgreen;
+    color: darkolivegreen;
+}
