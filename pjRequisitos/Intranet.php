@@ -15,7 +15,6 @@
         <footer>
             <p>Si ya has comprado un paquete y necesitas soporte, puedes realizar una petición aquí:</p>
             <a href="PETICION/frmRegPeticion.php" draggable="false"><button class="opciones">Solicitar Soporte</button></a>
-            <a href="DESCARGA/pjSemana12.jar" download draggable="false"><button class="opciones">Descargar prueba (.jar)</button></a>
         </footer>
     </body>
 </html>
